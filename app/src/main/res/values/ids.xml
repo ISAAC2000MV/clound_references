@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="folder_name" type="id" />
+    <item name="sections_container" type="id" />
+    <item name="pdf_section" type="id" />
+    <item name="pdf_container" type="id" />
+    <item name="image_section" type="id" />
+    <item name="image_container" type="id" />
+    <item name="folder_icon" type="id" />
+    <item name="link_container" type="id" />
+    <item name="navigation_camera" type="id" />
+    <item name="navigation_links" type="id" />
+    <item name="menu_title" type="id" />
+    <item name="search_folders" type="id" />
+    <item name="folder_container" type="id" />
+    <item name="search_container" type="id" />
+    <item name="search_icon" type="id" />
+    <item name="cerrarS" type="id" />
+</resources>

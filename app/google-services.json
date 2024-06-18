@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972054070814",
+    "project_id": "clound-references",
+    "storage_bucket": "clound-references.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972054070814:android:e56933b65038f3ca39900f",
+        "android_client_info": {
+          "package_name": "com.example.clound_references"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfS6P9H5LEEjCrvdsdh7lEbYFxo5QUOqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
